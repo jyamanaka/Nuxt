@@ -1,8 +1,8 @@
 {
-  "name": "Thesis",
+  "name": "swamp-project",
   "version": "1.0.0",
-  "description": "My delightful Nuxt.js project",
-  "author": "jyamanaka",
+  "description": "timeline visualization of The Great Swamp data",
+  "author": "",
   "private": true,
   "scripts": {
     "dev": "nuxt",
@@ -11,8 +11,9 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "nuxt": "^2.0.0",
-    "element-ui": "^2.4.11"
+    "d3": "^5.15.1",
+    "element-ui": "^2.4.11",
+    "nuxt": "^2.0.0"
   },
   "devDependencies": {}
 }
